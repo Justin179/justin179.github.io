@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>train on Chun Hao</title>
+    <link>https://Justin179.github.io/tags/train/</link>
+    <description>Recent content in train on Chun Hao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 22 Feb 2022 12:26:30 +0800</lastBuildDate><atom:link href="https://Justin179.github.io/tags/train/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Article after launch</title>
+      <link>https://Justin179.github.io/blog/first-post/</link>
+      <pubDate>Tue, 22 Feb 2022 12:26:30 +0800</pubDate>
+      
+      <guid>https://Justin179.github.io/blog/first-post/</guid>
+      <description>這是火車</description>
+    </item>
+    
+  </channel>
+</rss>
